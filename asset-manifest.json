@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Weather-React.js/static/css/main.5c1cef98.css",
+    "main.js": "/Weather-React.js/static/js/main.abac68e8.js",
+    "static/js/453.97127cc3.chunk.js": "/Weather-React.js/static/js/453.97127cc3.chunk.js",
+    "static/media/snow.png": "/Weather-React.js/static/media/snow.9957456da0445490c376.png",
+    "static/media/humidity.png": "/Weather-React.js/static/media/humidity.608e68e324af46d5b702.png",
+    "static/media/dark cloud.png": "/Weather-React.js/static/media/dark cloud.a08e0fcd1ff9a71dc717.png",
+    "static/media/rain.png": "/Weather-React.js/static/media/rain.fea62e3beeb0049f5768.png",
+    "static/media/moon clouds.png": "/Weather-React.js/static/media/moon clouds.93b6d683256eed4d7acc.png",
+    "static/media/sun clouds.png": "/Weather-React.js/static/media/sun clouds.c083fc151ebd00ab40a2.png",
+    "static/media/rain moon cloud.png": "/Weather-React.js/static/media/rain moon cloud.f5df1d3873733884a627.png",
+    "static/media/mist.png": "/Weather-React.js/static/media/mist.f8fe8b233b0462ef9d41.png",
+    "static/media/rain sun cloud.png": "/Weather-React.js/static/media/rain sun cloud.cb07da57172b4678c9df.png",
+    "static/media/lightning.png": "/Weather-React.js/static/media/lightning.262032cbb3a62fd51f40.png",
+    "static/media/sun.png": "/Weather-React.js/static/media/sun.6d48da504f4816188c8d.png",
+    "static/media/moon.png": "/Weather-React.js/static/media/moon.3bea3d398a25611d421b.png",
+    "static/media/wind.png": "/Weather-React.js/static/media/wind.2c0dd4e943186a115f3a.png",
+    "static/media/cloud.png": "/Weather-React.js/static/media/cloud.c26d84c0c395cebfe467.png",
+    "index.html": "/Weather-React.js/index.html",
+    "static/media/search-icons.svg": "/Weather-React.js/static/media/search-icons.75eba69e52221f0749961b8049f55824.svg",
+    "main.5c1cef98.css.map": "/Weather-React.js/static/css/main.5c1cef98.css.map",
+    "main.abac68e8.js.map": "/Weather-React.js/static/js/main.abac68e8.js.map",
+    "453.97127cc3.chunk.js.map": "/Weather-React.js/static/js/453.97127cc3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c1cef98.css",
+    "static/js/main.abac68e8.js"
+  ]
+}
