@@ -50,7 +50,6 @@ export default function Weather() {
         fetch(apiurl + city + `&appid=${apikey}`)
             .then((res) => res.json())
             .then((finalRes) => {
-                console.log(finalRes);
                 if (finalRes.cod === '404') {
                     seterror(true);
                 }
