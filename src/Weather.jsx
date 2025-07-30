@@ -72,7 +72,8 @@ export default function Weather() {
                     <button><img src={Searchicon} alt='search' /></button>
                 </form>
                 <img className={`loader ${loader ? '' : 'loadernone'} `} src='https://usagif.com/wp-content/uploads/loading-25.gif' alt='loading' />
-                {uDetails !== undefined ?
+                {
+                    uDetails !== undefined ?
                     <div className="weather">
                         <img src={allicons[uDetails.weather[0].icon]} alt='rain' className="weather-icon" />
                         <h1 className="temp">{uDetails.main.temp}</h1>
