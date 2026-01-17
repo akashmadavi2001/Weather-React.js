@@ -17,7 +17,7 @@ import snow from './Weathericon/snow.png'
 import mist from './Weathericon/mist.png'
 
 export default function Weather() {
-    const apikey = '123456789************';
+    const apikey = '123456789************'; //Your Api Key
     const apiurl = 'https://api.openweathermap.org/data/2.5/weather?&units=metric&q=';
 
     let [city, setCity] = useState('');
